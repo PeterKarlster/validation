@@ -3,8 +3,8 @@ BUILD_DIR := ./dist
 
 .PHONY: help
 help:    ## Show this help.
-	@echo 'help: Show this help usage'
 	@echo 'build: Build new website'
+	@echo 'help: Show this help usage'
 	@echo 'post: Post new website'
 	@echo 'clean: Clean files'
 
